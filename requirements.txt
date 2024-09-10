@@ -1,0 +1,5 @@
+tensorflow==2.13.0
+numpy==1.24.4
+matplotlib==3.8.0
+
+# you can use the latest one and make changes if required
