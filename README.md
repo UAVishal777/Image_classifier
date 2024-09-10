@@ -12,7 +12,7 @@ This project demonstrates an image classification model using the Fashion MNIST 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/uavishal777/fashion_mnist_classifier.git
+    git clone https://github.com/UAVishal777/Image_classifier.git
     ```
 2. Navigate to the project directory:
     ```bash
